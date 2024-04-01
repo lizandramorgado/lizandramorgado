@@ -8,6 +8,6 @@ Se você está interessado em colaborar em projetos ou trocar conhecimentos sobr
 
 ## 🌐 LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandramorgado/)
+[![Lizandra Morgado](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandramorgado/)
 
 
