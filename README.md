@@ -1,4 +1,4 @@
-### 👋 Hi there
+# 👋 Hi there
 
 Sou Lizandra Morgado, mestranda em ciências e entusiasta da programação. Com uma formação acadêmica e uma paixão pela tecnologia, estou em busca de novos desafios e oportunidades de aprendizado. </br>
 
@@ -6,7 +6,7 @@ Minha jornada na programação começou durante meu mestrado, onde desenvolvi ha
 
 Se você está interessado em colaborar em projetos ou trocar conhecimentos sobre programação, ficarei feliz em conectar-me! </br> 
 
-# 🌐 LinkedIn:
+## 🌐 LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizandramorgado/)
 
